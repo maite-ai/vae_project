@@ -1,3 +1,3 @@
-age = 20
+age = input("Ingrese edad: ")
 
-print("Hola añadi algo")
+print(f"Hola, tengo {age} años")
